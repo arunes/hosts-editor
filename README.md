@@ -1,0 +1,1 @@
+Small utility to change windows hosts file with a GUI.
